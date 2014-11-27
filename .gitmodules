@@ -1,0 +1,3 @@
+[submodule "ubuntu-vm"]
+	path = ubuntu-vm
+	url = https://github.com/sutch/ubuntu-vm.git
